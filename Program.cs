@@ -6,6 +6,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using MiniSocialNetworkApi.Data;
 using MiniSocialNetworkApi.Models.Domain;
+using MiniSocialNetworkApi.AutoMapper;
+using AutoMapper;
 
 namespace MiniSocialNetworkApi
 {
@@ -33,7 +35,7 @@ namespace MiniSocialNetworkApi
 
             // Instead of writing this code :AddIdentityCore<ApplicationUser>()//Add the core Identity system for managing users
             //    .AddRoles<IdentityRole>()//Enable role management
-            //    we can write just for direct  configuration : AddIdentity<ApplicationUser, IdentityRole>() because it diectly gives total configuration of the Identity system with user and role management. But in our case we don't need role management so we can use AddIdentityCore<ApplicationUser>() which is more lightweight and only provides the core features for user management without roles.
+            //    we can write just for direct  configuration : AddIdentity<ApplicationUser , IdentityRole>() because it diectly gives total configuration of the Identity system with user and role management. But in our case we don't need role management so we can use AddIdentityCore<ApplicationUser>() which is more lightweight and only provides the core features for user management without roles.
            
             
             builder.Services
@@ -75,7 +77,7 @@ namespace MiniSocialNetworkApi
             });
 
 
-
+            builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
             var app = builder.Build();
 

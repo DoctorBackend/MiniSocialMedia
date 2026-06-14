@@ -48,17 +48,19 @@ namespace MiniSocialNetworkApi.Controllers
         {
               var user = await usermanager.FindByEmailAsync(userdto.UserName);
               if (user == null)
-                    return BadRequest("User not found");
+                    return NotFound("User not found");
 
               var result  = await signInManager.CheckPasswordSignInAsync(
-                    user, userdto.Password , lockoutOnFailure:true);
+                    user,
+                    userdto.Password, 
+                    lockoutOnFailure:true);
 
               if (result.IsLockedOut)
-                    return BadRequest("The account lockedout for teh password requests");
+                    return StatusCode(423,"The account lockedout for teh password requests");
 
 
               if (!result.Succeeded)
-                    return BadRequest("Invalid password.");
+                    return Unauthorized("Invalid credentials");
 
               var token = repository.CreateToken(user);
               var newttokenDto = new TokenDto

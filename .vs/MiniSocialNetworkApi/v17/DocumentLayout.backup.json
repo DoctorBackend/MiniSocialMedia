@@ -3,56 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\controllers\\followscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:controllers\\followscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\repository\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:repository\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\repository\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:repository\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\repository\\ifollowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:repository\\ifollowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\models\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:models\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\models\\domain\\commentlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:models\\domain\\commentlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\models\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:models\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\models\\dto\\userregisterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:models\\dto\\userregisterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\models\\dto\\userloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:models\\dto\\userloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\models\\domain\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:models\\domain\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\repository\\followrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:repository\\followrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,180 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CommentLike.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Models\\Domain\\CommentLike.cs",
-              "RelativeDocumentMoniker": "Models\\Domain\\CommentLike.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Models\\Domain\\CommentLike.cs",
-              "RelativeToolTip": "Models\\Domain\\CommentLike.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T12:47:18.466Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TokenRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\TokenRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\TokenRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\TokenRepository.cs",
-              "RelativeToolTip": "Repository\\TokenRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T13:50:22.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T13:48:38.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TokenDto.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Models\\DTO\\TokenDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\TokenDto.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Models\\DTO\\TokenDto.cs",
-              "RelativeToolTip": "Models\\DTO\\TokenDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T16:10:56.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ITokenRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\ITokenRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ITokenRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\ITokenRepository.cs",
-              "RelativeToolTip": "Repository\\ITokenRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T13:50:05.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Models\\Domain\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Models\\Domain\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Models\\Domain\\ApplicationUser.cs",
-              "RelativeToolTip": "Models\\Domain\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T09:59:45.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T21:46:51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserRegisterRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Models\\DTO\\UserRegisterRequestDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\UserRegisterRequestDto.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Models\\DTO\\UserRegisterRequestDto.cs",
-              "RelativeToolTip": "Models\\DTO\\UserRegisterRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T14:18:20.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserLoginRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Models\\DTO\\UserLoginRequestDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\UserLoginRequestDto.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Models\\DTO\\UserLoginRequestDto.cs",
-              "RelativeToolTip": "Models\\DTO\\UserLoginRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T14:45:21.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-11T09:58:55.374Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAvAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FollowsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Controllers\\FollowsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FollowsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Controllers\\FollowsController.cs",
+              "RelativeToolTip": "Controllers\\FollowsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwGkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T10:16:23.658Z",
+              "WhenOpened": "2026-06-14T14:22:44.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Follow.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Models\\Domain\\Follow.cs",
-              "RelativeDocumentMoniker": "Models\\Domain\\Follow.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Models\\Domain\\Follow.cs",
-              "RelativeToolTip": "Models\\Domain\\Follow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T10:08:13.132Z",
+              "WhenOpened": "2026-06-13T13:03:31.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PostsController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Controllers\\PostsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Controllers\\PostsController.cs",
-              "RelativeToolTip": "Controllers\\PostsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FollowRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\FollowRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\FollowRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\FollowRepository.cs",
+              "RelativeToolTip": "Repository\\FollowRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T10:15:06.156Z",
+              "WhenOpened": "2026-06-14T14:24:22.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFollowRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\IFollowRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IFollowRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\IFollowRepository.cs",
+              "RelativeToolTip": "Repository\\IFollowRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T14:24:05.774Z",
               "EditorCaption": ""
             }
           ]
