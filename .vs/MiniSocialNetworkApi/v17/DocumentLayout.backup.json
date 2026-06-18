@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\controllers\\followscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:controllers\\followscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\repository\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:repository\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\repository\\ifollowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:repository\\ifollowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\repository\\followrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:repository\\followrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|c:\\users\\asus\\desktop\\testwalk\\minisocialnetworkapi\\models\\domain\\commentlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D23668-C549-4A44-9ED9-F58CF04698C1}|MiniSocialNetworkApi.csproj|solutionrelative:models\\domain\\commentlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +34,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FollowsController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Controllers\\FollowsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FollowsController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Controllers\\FollowsController.cs",
-              "RelativeToolTip": "Controllers\\FollowsController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwGkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CommentLike.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Models\\Domain\\CommentLike.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\CommentLike.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Models\\Domain\\CommentLike.cs",
+              "RelativeToolTip": "Models\\Domain\\CommentLike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T14:22:44.421Z",
+              "WhenOpened": "2026-06-17T13:36:46.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "Repository\\CommentRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA6wDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T10:59:23.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\IUserRepository.cs",
-              "RelativeToolTip": "Repository\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\ICommentRepository.cs",
+              "RelativeToolTip": "Repository\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T13:03:31.386Z",
+              "WhenOpened": "2026-06-15T10:49:30.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FollowRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\FollowRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\FollowRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\FollowRepository.cs",
-              "RelativeToolTip": "Repository\\FollowRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAABAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T14:24:22.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IFollowRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\IFollowRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\IFollowRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\TestWalk\\MiniSocialNetworkApi\\Repository\\IFollowRepository.cs",
-              "RelativeToolTip": "Repository\\IFollowRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T14:24:05.774Z",
+              "WhenOpened": "2026-06-15T10:27:26.395Z",
               "EditorCaption": ""
             }
           ]
